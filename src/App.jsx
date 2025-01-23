@@ -1,6 +1,8 @@
 import Navbar from './components/Navbar'
+import Workareas from './components/Workareas'
 import Hero from './Pages/Hero'
 import Statusbar from './Pages/Statusbar'
+import Experience from './components/Exp'
 
 function App() {
 
@@ -12,6 +14,10 @@ function App() {
         <Navbar/>
         <Hero/>
         <Statusbar/>
+        <Workareas/>
+        <Experience/>
+        <Statusbar/>
+
       </div>
       
     </>

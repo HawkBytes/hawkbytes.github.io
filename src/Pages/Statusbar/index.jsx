@@ -1,6 +1,6 @@
 const index = () => {
   return (
-    <div className="border-t border-b text-xs text-start py-3 border-black flex justify-between px-4">
+    <div className="border-t border-b text-xs text-start py-6 border-black flex justify-between px-4">
       <div className="flex flex-col">
         <div className="text-gray-400 font-bold">Location</div>
         <div className="">GMT+3(20:55, KE)</div>

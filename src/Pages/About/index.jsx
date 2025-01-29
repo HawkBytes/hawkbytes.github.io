@@ -14,6 +14,9 @@ const index = () => {
             <div className="border-b border-8 border-gray-500 w-96 mt-3 hidden lg:block"></div>
           </div>
           <h1 className="text-5xl md:ml-4">2025</h1>
+
+
+          
         </div>
         <div className="flex justify-center items-start gap-8 flex-col ">
           <div className="text-xl sm:text-2xl md:text-4xl lg:text-5xl w-2/4 pt-28 ">

@@ -2,7 +2,7 @@ import Lottie from "../../components/Lottie";
 
 const index = () => {
   return (
-    <div className="h-[95vh] w-full text-6xl font-semibold font-popins flex flex-col justify-around items-center gap-8 lg:text-9xl pt-8 ">
+    <div className="h-[95vh] w-full text-6xl font-semibold  flex flex-col justify-around items-center gap-8 lg:text-9xl pt-8 font-['Grotesk Diamond']">
       <div className="flex gap-6 justify-between items-center">
         <div className="">CREATIVE</div>
         <div className="flex flex-col gap-6 text-sm lg:text-3xl lg:gap-12">
@@ -11,9 +11,9 @@ const index = () => {
           <h1> UX/UI DESIGNER</h1>
         </div>
       </div>
-      <div className="flex gap-16 ">
-        <span><Lottie/></span>
-        <span>DEVELOPER</span>
+      <div className="flex gap-16">
+        <span className="lg:mt-6"><Lottie/></span>
+        <span className="lg:pb-">DEVELOPER</span>
         
         </div>
       <div className="text-sm font-normal flex gap-2 self-end w-1/2 lg:text-2xl lg:self-center">
